@@ -1,0 +1,1 @@
+# d7_solr7_update_url
